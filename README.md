@@ -12,3 +12,7 @@
 Este programa tiene el propósito de administrar stock de cualquier producto en un archivo CSV.
 
 El programa tiene dos funciones principales, una para ingresar a la lista el stock nuevo, y otra para retirar de la lista el stock que fue comprado.
+
+## Diagrama de flujo:
+
+![](diagrama_de_flujo/diagrama%20proyecto.jpg)
